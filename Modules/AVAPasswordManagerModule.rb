@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require "rubygems"
 require "sequel"
 require File.dirname(__FILE__)+"/AVAModule.rb"
 
